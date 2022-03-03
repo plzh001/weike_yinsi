@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## 隐私政策
 
-You can use the [editor on GitHub](https://github.com/plzh001/yinsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* 发布时间：【 2022年1月1日 】
+* 更新时间：【 2022年1月1日 】
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+广州秋水信息技术有限公司（以下称“我们”）非常重视您的个人隐私。在您使用我们的产品和服务前，请您仔细阅读并全面了解本隐私政策。如果您是未成年人， 您的监护人需要仔细阅读本政策并同意您依照本政策使用我们的产品及服务。我们可能会收集和使用您的相关信息。是在遵守国家法律法规规定的前提下，出于向您提供我们的产品和服务并不断提升产品好服务质量的目的。我们希望通过本《隐私政策》向您说明，在使用我们的产品和服务时，我们如何收集、使用、储存、分享这些信息，以及我们为您提供的访问、更新、控制和保护这些信息的方式。
 
-### Markdown
+如对本《隐私政策》或相关事宜有任何问题，请通过邮箱 1007436609@qq.com与我们联系。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+信息的访问和收集范围
 
-```markdown
-Syntax highlighted code block
+为了向您提供和持续优化定制化的服务，我们提供产品和服务时，根据你所获取产品和服务的平台方的要求不同，可能会由我们或第三方平台收集、储存和使用下列与您有关的信息或需要获得访问您信息的权限。如果您不同意被收集或访问相关必要信息，可能无法使用我们的产品和服务，或者无法达到相关服务拟达到的效果。以上所述第三方平台指的是您下载获得游戏产品的平台。您授权我们或第三方平台收集或访问您的以下个人信息：
 
-# Header 1
-## Header 2
-### Header 3
+* 为了给您提供正常的游戏功能和优质的游戏体验，我们或第三方平台将会收集您在注册账户或使用我们的产品和服务时，向我们提供的相关个人信息,例如电话号码、电子邮件、账号 ID 或银行卡号等；
 
-- Bulleted
-- List
+* 为了评估游戏与您的设备之间的兼容性，以便提供顺畅的游戏服务，我们或第三方平台会收集您在注册账户或使用我们的产品和服务时所使用的设备信息和网络信息，包括设备标识符、MAC、机型、品牌、App 包名、App 版本号、设备分辨率及像素密度、网络连接状态、接入网络的方式和类型、IP 地址等；
 
-1. Numbered
-2. List
+* 为了预防恶意程序及安全运营所必须，我们会收集您的设备安装的应用信息或总体安装使用情况、性能数据、应用来源等；
 
-**Bold** and _Italic_ and `Code` text
+* 为了改善我们的游戏产品及服务，我们或第三方平台可能收集您通过我们的产品和服务向其他方提供的共享信息，以及您使用我们的服务时所储存的信息；
 
-[Link](url) and ![Image](src)
-```
+* 我们可能收集其他方使用我们的产品和服务时所提供的有关您的共享信息，用于游戏拟要分析及其他游戏安全分析，并为您提升游戏的体验；
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* 为了确保游戏的运行及便于您在客户端查看游戏历史记录，我们需要获得储存游戏数据的权限，用以记录您使用游戏的进度同时用于客服投诉处理急其他游戏安全分析；
 
-### Jekyll Themes
+* 为了向您提供有效的售后服务，我们或第三方凭条需要获得读取您移动设备信息的权限，设备信息为用户移动设备的标识，用以记录和区分用户充值的唯一根据；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plzh001/yinsi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 基于支付安全的需要，您通过具有定位功能的移动设备使用我们的服务时，我们或第三方平台将通过 GPS 或 WiFi 等方式收集的您的地理位置信息，这与您的支付行为关联，用以处理异常支付等问题；需要特别提示的是，您可以通过关闭定位功能，停止对您的地理位置信息的共享，但可能因此影响处理异常支付问题的效率；
 
-### Support or Contact
+* 基于游戏类型不同，为实现游戏功能，我们可能在您操作游戏时，经过您的同意开启您的移动设备的麦克风，用于您与游戏角色进行互动，但该声音信息不会进行收集和储存；
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* 基于游戏类型不同，为实现游戏功能，我们可能在您操作游戏时，经过您的同意开启您的移动设备的相机，以便您使用游戏的摄像功能，但该图像信息不会进行收集和储存；
+
+* 为提供游戏服务功能，游戏可能需要接入以下第三方平台的 SDK，第三方平台基于运营的需要将收集您的个人信息
+
